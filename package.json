@@ -1,0 +1,22 @@
+{
+  "name": "final-final-final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orciari91/Final-Final-Final.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Orciari91/Final-Final-Final/issues"
+  },
+  "homepage": "https://github.com/Orciari91/Final-Final-Final#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
