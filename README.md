@@ -17,3 +17,4 @@ Pasos para crear un proyecto de 0...
 6. Ejecutar `npm install nodemon`
 7. Ignorar `/node_modules` en el archivo .gitignore
  
+Crear una landing (index) que muestre los 3 proyectos

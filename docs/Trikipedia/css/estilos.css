@@ -1,0 +1,149 @@
+body{
+	background: rgba(19,19,19,1);
+	background: -moz-linear-gradient(top, rgba(19,19,19,1) 0%, rgba(19,19,19,1) 35%, rgba(89,89,89,1) 91%, rgba(76,76,76,1) 100%);
+	background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(19,19,19,1)), color-stop(35%, rgba(19,19,19,1)), color-stop(91%, rgba(89,89,89,1)), color-stop(100%, rgba(76,76,76,1)));
+	background: -webkit-linear-gradient(top, rgba(19,19,19,1) 0%, rgba(19,19,19,1) 35%, rgba(89,89,89,1) 91%, rgba(76,76,76,1) 100%);
+	background: -o-linear-gradient(top, rgba(19,19,19,1) 0%, rgba(19,19,19,1) 35%, rgba(89,89,89,1) 91%, rgba(76,76,76,1) 100%);
+	background: -ms-linear-gradient(top, rgba(19,19,19,1) 0%, rgba(19,19,19,1) 35%, rgba(89,89,89,1) 91%, rgba(76,76,76,1) 100%);
+	background: linear-gradient(to bottom, rgba(19,19,19,1) 0%, rgba(19,19,19,1) 35%, rgba(89,89,89,1) 91%, rgba(76,76,76,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#131313', endColorstr='#4c4c4c', GradientType=0 ); 
+	margin: 0px;
+	font-family: Arial, sans-serif;
+	text-align: center;
+}
+
+h1{
+	display: inline-block;
+	font-size: 46px;
+	text-transform: uppercase;
+	color: white;
+	background-color: transparent;
+	margin: auto;
+}
+
+.titulo{
+	height: 160px;
+}
+
+p{
+	position: relative;
+	text-align: left;
+	font-size: 16px;
+	margin: 30px 30px 0px 30px;
+	color: white;
+}
+a{
+	text-decoration: none;
+	font-family: Arial;
+}
+
+#mc{
+	color: white;
+	background-color: red;	
+}
+
+#mc:hover{
+	color: red;
+	background-color: white;	
+}
+#antman{
+	color: grey;
+	background-color: red;
+}
+
+#antman:hover{
+	color: red;
+	background-color: grey;
+}
+
+#ironman{
+	color: gold;
+	background-color: red;
+}
+
+#ironman:hover{
+	color: red;
+	background-color: gold;
+}
+
+#hulk{
+	color: green;
+	background-color: purple;
+}
+
+#hulk:hover{
+	color: purple;
+	background-color: green;
+}
+
+#capitanAmerica{
+	color: blue;
+	background-color: red;
+}
+
+#capitanAmerica:hover{
+	color: red;
+	background-color: blue;
+}
+
+#thor{
+	color: red;
+	background-color: black;	
+}
+
+#thor:hover{
+	color: black;
+	background-color: red;	
+}
+
+.avispa{
+	color: black;
+	background-color: yellow;	
+}
+
+.avispa:hover{
+	color: yellow;
+	background-color: black;	
+}
+
+.portada{
+	text-align: center;
+	position: relative;
+	display: block;
+	margin: 30px auto;
+	z-index: 0;
+	padding-bottom: 30px;
+}
+
+audio{
+	margin: 30px;
+}
+
+.fondo{
+	display: inline-block;
+	background: rgba(19,19,19,1);
+}
+
+.col1{
+	display: inline-block;
+	width: 79%;
+	margin: auto;
+	padding: 0px;
+	height: 80px;
+}
+.col2{
+	width: 20%;
+	height: 80px;
+	display: inline-block;
+}
+.row{
+	display: block;
+	height: auto;
+}
+.marvel{
+	width: 80%;
+}
+.avengers{
+	width: 10%;
+	margin: 10px;
+}
