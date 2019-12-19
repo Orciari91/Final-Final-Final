@@ -2,7 +2,7 @@ const express = require("express")
 
 const servidor = express()
 
-const puerto = 80
+const puerto = process.env.PORT || 80
 
 const publico = express.static("docs") 
 //Configurar directorio "/docs" como carpeta publica
